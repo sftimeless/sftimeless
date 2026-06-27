@@ -8,7 +8,7 @@ I'm building infrastructure that lets AI systems obtain authorization before the
 
 ## Current work
 
-- AI authorization
+- AI authorization and accountability
 - Permit-first governance
 - Runtime controls for AI agents
 - Verifiable AI evidence
@@ -17,7 +17,7 @@ I'm building infrastructure that lets AI systems obtain authorization before the
 ## Open source
 
 [keel-permit](https://github.com/keelapi/keel-permit)  
-Open specification for AI authorization permits.
+Open specification for AI permits.
 
 [keel-verifier](https://github.com/keelapi/keel-verifier)  
 Independent verifier for signed AI evidence.
