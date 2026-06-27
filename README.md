@@ -22,13 +22,6 @@ Open specification for AI authorization permits.
 [keel-verifier](https://github.com/keelapi/keel-verifier)  
 Independent verifier for signed AI evidence.
 
-## Questions
-
-- How should AI obtain authority?
-- How should delegated authority propagate?
-- How can AI actions be independently verified?
-- How should organizations govern autonomous systems?
-
 ## Principles
 
 Technology should amplify human capability, not dissolve human responsibility.
