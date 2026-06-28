@@ -1,10 +1,9 @@
 Hi, I'm Christian.
 
-Founder of [Keel](https://keelapi.com), an AI authorization and accountability platform.
+🌴 Mission born & bred.
+⚓️ Moldavanka anchored & raised.
 
-Creator of the Permit-first governance model for AI.
-
-I'm building infrastructure that lets AI systems obtain authorization before they act and produce independently verifiable evidence afterward.
+Founder of [Keel](https://keelapi.com), an AI authorization and accountability platform where you can control what AI agents do, and prove what happened.
 
 ## Current work
 
