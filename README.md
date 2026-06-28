@@ -25,8 +25,6 @@ Independent verifier for signed AI evidence.
 
 Technology should amplify human capability, not dissolve human responsibility.
 
-Decide before. Prove after.
-
 ## Find me
 
 - [Keel](https://keelapi.com)
