@@ -7,8 +7,8 @@ Founder of [Keel](https://keelapi.com), an AI authorization and accountability p
 
 ## Current work
 
-- AI authorization and accountability
-- Permit-first governance
+- Agent authorization and accountability
+- AI Permit-first governance
 - Runtime controls for AI agents
 - Verifiable AI evidence
 - Independent verification
