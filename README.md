@@ -27,5 +27,6 @@ Technology should amplify human capability, not dissolve human responsibility.
 
 ## Find me
 
-- [Keel](https://keelapi.com)
+- [Personal](https://christianmunoz.me))
+- [LinkedIn](https://www.linkedin.com/in/christianmunoz-sf)
 - [X](https://x.com/timelesstaco)
