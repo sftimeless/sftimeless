@@ -1,33 +1,46 @@
-Hi, I'm Christian.
+# Hi, I'm Christian.
 
-🌴 TWlzc2lvbiBib3JuICYgYnJlZA==
-
+🌴 TWlzc2lvbiBib3JuICYgYnJlZA==  
 ⚓️ TW9sZGF2YW5rYSBhbmNob3JlZCAmIHJhaXNlZA==
 
-Founder of [Keel](https://keelapi.com), an AI authorization and accountability platform where you can control what your AI agents do, and prove what they did, and verify it all independently.
+Founder of [Keel](https://keelapi.com), building infrastructure for AI agents that act in the real world.
 
-## Current work
+I work at the intersection of AI agents, authorization, runtime controls, and verifiable execution. I also build things because I want them to exist.
 
-- Agent authorization and accountability
-- AI Permit-first governance
-- Runtime controls for AI agents
-- Verifiable AI evidence
-- Independent verification
+## Building
+
+### [Keel](https://keelapi.com)
+Control what AI agents can do before they do it, with independently verifiable evidence of what happened.
+
+### [True Wind](https://truewind.lovable.app/)
+A sailing app for understanding wind direction, wind speed, and points of sail at a glance. Built for iPhone, iPad, and Apple Watch.
+
+### AgentGate *(codename)*
+An experimental macOS control layer for understanding and restricting how local AI agents access files and resources.
+
+### Other experiments
+I build small things around agents, security, the web, and occasionally ideas that probably should have stayed ideas.
 
 ## Open source
 
-[keel-permit](https://github.com/keelapi/keel-permit)  
-Open specification for AI permits.
+**[keel-permit](https://github.com/keelapi/keel-permit)**  
+An open specification for portable AI action authorization.
 
-[keel-verifier](https://github.com/keelapi/keel-verifier)  
-Independent verifier for signed AI evidence.
+**[keel-verifier](https://github.com/keelapi/keel-verifier)**  
+Independent verification of signed Keel evidence.
 
-## Principles
+## Currently exploring
 
-Technology should amplify human capability, not dissolve human responsibility.
+- Agent authorization at execution time
+- Local controls for coding agents
+- Agent identity and delegated authority
+- Verifiable evidence for autonomous actions
+- Where AI software ends and autonomous systems begin
 
-## Find me
+## Principle
 
-- [Personal](https://christianmunoz.me)
-- [LinkedIn](https://www.linkedin.com/in/christianmunoz-sf)
-- [X](https://x.com/timelesstaco)
+> Technology should amplify human capability, not dissolve human responsibility.
+
+## Elsewhere
+
+[christianmunoz.me](https://christianmunoz.me) · [LinkedIn](https://www.linkedin.com/in/christianmunoz-sf) · [X](https://x.com/timelesstaco)
