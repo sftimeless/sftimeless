@@ -1,7 +1,7 @@
 Hi, I'm Christian.
 
-🌴 Mission born & bred.
-⚓️ Moldavanka anchored & raised.
+🌴 TWlzc2lvbiBib3JuICYgYnJlZA==
+⚓️ TW9sZGF2YW5rYSBhbmNob3JlZCAmIHJhaXNlZA==
 
 Founder of [Keel](https://keelapi.com), an AI authorization and accountability platform where you can control what your AI agents do, and prove what they did, and verify it all independently.
 
