@@ -10,7 +10,7 @@ I work at the intersection of AI agents, authorization, runtime controls, and ve
 ## Building
 
 ### [Keel](https://keelapi.com)
-Control what AI agents can do before they do it, with independently verifiable evidence of what happened.
+Give AI agents the freedom to act within limits you control, with independently verifiable proof of every authorization decision.
 
 ### [True Wind](https://truewind.lovable.app/)
 A sailing app for understanding wind direction, wind speed, and points of sail at a glance. Built for iPhone, iPad, and Apple Watch.
