@@ -15,6 +15,9 @@ Control what AI agents can do before they do it, with independently verifiable e
 ### [True Wind](https://truewind.lovable.app/)
 A sailing app for understanding wind direction, wind speed, and points of sail at a glance. Built for iPhone, iPad, and Apple Watch.
 
+### [Zoriana]([https://truewind.lovable.app/](https://zoriana.auburnowlet4.chatgpt.site)
+An interactive lunar exploration and landing-site navigator, built for the NASA Space Apps Challenge 2026. Making the Moon easier to explore, understand, and discover.
+
 ### AgentGate *(codename)*
 An experimental macOS control layer for understanding and restricting how local AI agents access files and resources.
 
