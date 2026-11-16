@@ -5,7 +5,7 @@
 
 Founder of [Keel](https://keelapi.com), building infrastructure for AI agents that act in the real world.
 
-I work at the intersection of AI agents, authorization, runtime controls, and verifiable execution. I also build things because I want them to exist.
+I build at the intersection of AI, autonomy, and human control. Sometimes for serious problems. Sometimes just because I think something should exist.
 
 ## Building
 
