@@ -3,7 +3,7 @@
 🌴 TWlzc2lvbiBib3JuICYgYnJlZA==  
 ⚓️ TW9sZGF2YW5rYSBhbmNob3JlZCAmIHJhaXNlZA==
 
-Founder of [Keel](https://keelapi.com), building infrastructure for AI agents that act in the real world.
+Founder of [Keel](https://keelapi.com), the control layer for AI agents that take real-world actions.
 
 I build at the intersection of AI, autonomy, and human control. Sometimes for serious problems. Sometimes just because I think something should exist.
 
